@@ -1,0 +1,9 @@
+torch
+torchvision
+vtk
+pillow
+numpy
+PyQt5
+openpyxl
+SimpleITK
+opencv-python
